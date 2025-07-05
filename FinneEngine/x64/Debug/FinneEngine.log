@@ -1,0 +1,6 @@
+﻿  main.cpp
+  tinyxml2.cpp
+  XMLload.cpp
+  Generowanie kodu...
+XMLload.obj : error LNK2005: Element "void __cdecl LoadEngineConfig(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?LoadEngineConfig@@YAXAEBV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z) jest już zdefiniowany w elemencie main.obj
+C:\Users\adaty\source\repos\FinneEngine\x64\Debug\FinneEngine.exe : fatal error LNK1169: znaleziono co najmniej jeden wielokrotnie zdefiniowany symbol

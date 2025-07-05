@@ -1,0 +1,6 @@
+<EngineConfig>
+	<CoreVersion>Beta 1.0</CoreVersion>
+	<Network>Disable</Network>
+	<UseProxy>false</UseProxy>
+	<Port>3000</Port>
+</EngineConfig>
